@@ -16,3 +16,5 @@ const routes = (request, response) => {
     }
   }
 };
+
+module.exports = { routes }
