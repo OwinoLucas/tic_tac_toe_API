@@ -1,6 +1,6 @@
 # **Tic-tac-toe-API**
 
-**Link** :🔗 
+**Link** :🔗 https://tic-tac-toe-api-test.herokuapp.com/
 
 ⚠️⚠️⚠️⚠️⚠️
 this API access GET method only as required
@@ -8,15 +8,15 @@ this API access GET method only as required
 
 ### ***example of valid board***
 
-* https://tic-tac-toe-api-exercise.herokuapp.com/?board=+++ox++++
+* https://tic-tac-toe-api-test.herokuapp.com/?board=+++ox++++
 * etc..
 
 ### ***example of invalid board***
 
-* https://tic-tac-toe-api-exercise.herokuapp.com/?board=+++ox+
-* https://tic-tac-toe-api-exercise.herokuapp.com/?board=+++ox+o++
-* https://tic-tac-toe-api-exercise.herokuapp.com/?board=+++ox+o+7
-* https://tic-tac-toe-api-exercise.herokuapp.com/?board=+++oxoooo
+* https://tic-tac-toe-api-test.herokuapp.com/?board=+++ox+
+* https://tic-tac-toe-api-test.herokuapp.com/?board=+++ox+o++
+* https://tic-tac-toe-api-test.herokuapp.com/?board=+++ox+o+7
+* https://tic-tac-toe-api-test.herokuapp.com/?board=+++oxoooo
 * etc..
 
 
